@@ -1,0 +1,3 @@
+C:\Users\Windows\OneDrive - SESISENAISP - Corporativo\Documentos\Treinamentos\Tecnico Desenvolvimento de Sistemas\CadastroEvento\obj\Debug\CadastroEvento.njsproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive - SESISENAISP - Corporativo\Documentos\Treinamentos\Tecnico Desenvolvimento de Sistemas\CadastroEvento\obj\Debug\CadastroEvento.njsproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive - SESISENAISP - Corporativo\Documentos\Treinamentos\Tecnico Desenvolvimento de Sistemas\CadastroEvento\bin\Microsoft.NodejsTools.WebRole.dll
